@@ -1,2 +1,2 @@
 # patropatri
-Matrimonial CMS
+Matrimonial Content Management System(MCMS)
